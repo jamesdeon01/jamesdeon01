@@ -6,7 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdeon01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 📞Contato
+## 📞Contatos: 📞
   
   <div> 
   <a href="https://api.whatsapp.com/send?phone=5534988740569&text=Ol%C3%A1!%20Tudo%20bem%3F" target="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
