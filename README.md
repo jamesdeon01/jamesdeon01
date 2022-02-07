@@ -15,6 +15,6 @@
   <a href="https://www.linkedin.com/in/james-deon-7642711a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/jamesdeon01/jamesdeon01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Jamesdeon01/jamesdeon01/blob/output/github-contribution-grid-snake.svg)
  
 
