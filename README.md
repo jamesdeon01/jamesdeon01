@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Jamesdeon01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jamesdeon01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdeon01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jamesdeon01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdeon01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 📞Contato
@@ -15,6 +15,6 @@
   <a href="https://www.linkedin.com/in/james-deon-7642711a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/Jamesdeon01/jamesdeon01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jamesdeon01/jamesdeon01/blob/output/github-contribution-grid-snake.svg)
  
 
